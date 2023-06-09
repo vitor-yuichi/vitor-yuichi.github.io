@@ -20,10 +20,10 @@ timezone: America/Sao_Paulo
 
 title: Vitor Yuichi # the main title
 
-tagline: Análise de Dados  # it will display as the sub-title
+tagline: Data Analysis | Environmental Engineering  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A site for my data projects
+  This is a personal portfolio of my academic and professional projects. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://vitor-yuichi.github.io/"
@@ -45,7 +45,7 @@ social:
     - https://github.com/vitor-yuichi # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/vitor-yuichi-67109817b/
 
 google_site_verification: # fill in to your verification string
 
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://i.imgur.com/rP23KCo.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
